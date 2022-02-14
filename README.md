@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Python
-- 🌱 I’m currently learning engenharia de dados
+- 🌱 I’m currently learning data analysis
 - 📫 How to reach me: vivianesousademelo54@gmail.com
 - 😄 Pronouns: ela/dela
 
